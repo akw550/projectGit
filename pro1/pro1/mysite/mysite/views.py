@@ -11,7 +11,7 @@ from django.shortcuts import render
 #     return HttpResponse("About Page")
 
 
-#           -------------------
+#           ---------lecture before----------
 
 def index(request):
     # return HttpResponse("Home")
